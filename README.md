@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MultiD822 or Kai
-- 🖥️ I'm also a Computer Science Tutor 
+- 🖥️ I'm a Computer Science Tutor 
 - 👀 I’m interested in Games Theory, Complex Mathematics, and Game Development...
 - 🌱 I’m currently learning Java, C, and other Computer Science Topics...
 - 🔭 First far-off dream is to help work at an Observatory and help code telescopes
